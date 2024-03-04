@@ -13,8 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/batuoc263/batu-tea.git"
+    "url": "https://github.com/batuoc263/batu-tea"
   },
+  "website": "https://github.com/batuoc263/batu-tea.git",
   "keywords": [
     "test",
     "package"
